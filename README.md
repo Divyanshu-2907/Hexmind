@@ -6,12 +6,8 @@ An advanced, AI-powered Hexapod robotics project integrating custom YOLO vision 
 
 ## 📸 The Hexapod
 
-<!-- 
-  REPLACE the link below with your actual image path or URL once you have a picture of your robot!
-  Example: ![Hexapod Robot](images/my_hexapod.jpg)
--->
 <div align="center">
-  <img src="https://via.placeholder.com/800x400?text=Your+Hexapod+Robot+Picture+Here" alt="Hexapod Robot" width="100%" />
+  <img src="Hexapod.jpeg" alt="Hexapod Robot" width="100%" />
 </div>
 
 ---
