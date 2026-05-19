@@ -7,7 +7,9 @@ An advanced, AI-powered Hexapod robotics project integrating custom YOLO vision 
 ## 📸 The Hexapod
 
 <div align="center">
-  <img src="Hexapod.jpeg" alt="Hexapod Robot" width="100%" />
+
+![Hexapod Robot](Hexapod.jpeg)
+
 </div>
 
 ---
