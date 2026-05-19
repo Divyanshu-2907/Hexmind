@@ -1,0 +1,27 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Model weights and training outputs
+*.pt
+models/*.pt
+runs/
+hexapod_ai/runs/
+
+# Datasets
+dataset/
+hexapod_ai/dataset/
+
+# System and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
